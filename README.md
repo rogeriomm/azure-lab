@@ -3,7 +3,7 @@
 
 # Install tools
 ## Install ASDF
-      * https://asdf-vm.com/guide/getting-started.html
+   * https://asdf-vm.com/guide/getting-started.html
 
 ```shell
 echo . "$HOME/.asdf/asdf.sh" >> $HOME/.bashrc
@@ -23,6 +23,10 @@ asdf plugin add terraform
 asdf install terraform $version
 asdf global terraform $version
 ```
+
+# Azure/Databricks cost
+
+
 
 
 
