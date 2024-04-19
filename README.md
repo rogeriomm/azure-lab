@@ -33,3 +33,5 @@ asdf global terraform $version
 ```shell
 az account set --subscription []
 ```
+# Links
+   * https://github.com/gruberdev/tf-free
